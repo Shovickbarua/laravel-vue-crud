@@ -1,0 +1,6 @@
+Unzip the code.
+upload the mysql.
+Composer update.
+php artisan key:generate
+php artisan serve
+npm run dev
